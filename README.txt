@@ -1,5 +1,8 @@
 RimWorld-Korean
+
+
 ===============
+
 
 Korean localization for RimWorld
 
@@ -7,45 +10,24 @@ See this page for license info:
 http://ludeon.com/forums/index.php?topic=2933.0
 
 
-
 [Translators]
+
 
 Rimworld korea cafe :
 http://cafe.naver.com/indiss
 
-Alpha3(413)
-Enoz
-°í·ÎÄí¸¶
-PlayGirl
-DaDen
-Walker
+Alpha3(413): Enoz, ê³ ë¡œì¿ ë§ˆ, PlayGirl, DaDen, Walker
 
 
-
-Alpha 4 (466) 1Â÷
-Walker
-
-Alpha 4 (466) 2Â÷
-DDCCDD
-
-Alpha 4 (466) 3Â÷
-Walker
+Alpha 4 (466) 1ì°¨ : Walker
+Alpha 4 (466) 2ì°¨ : DDCCDD
+Alpha 4 (466) 3ì°¨ : Walker
 
 
-
-Alpha 5 (492) 1Â÷
-µàÇÃ·¯
-
-Alpha 5 (492) 2Â÷
-GLONAX
+Alpha 5 (492) 1ì°¨ : ë“€í”ŒëŸ¬
+Alpha 5 (492) 2ì°¨ : GLONAX
 
 
-
-Alpha 6 (532) 1Â÷
-DDCCDD
-
-Alpha 6 (532) 2Â÷
-Åä³¢Æ¼¸ğ(ToTee)
-
-Alpha 6 (532) 3Â÷
-ÄğÄğ³È³È
+Alpha 6 (532) 1ì°¨ : DDCCDD
+Alpha 6 (532) 2ì°¨ : í† ë¼í‹°ëª¨(ToTee)
+Alpha 6 (532) 3ì°¨ : ì¸ì„œëŒ€, ì¿¨ì¿¨ëƒ ëƒ 
