@@ -10,7 +10,6 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 [Translators]
 
-Rimworld korea cafe :
 http://cafe.naver.com/indiss
 
 Alpha3(413)
